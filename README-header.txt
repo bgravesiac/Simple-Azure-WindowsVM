@@ -8,7 +8,7 @@ Provision an simple Azure Windows 10 VM with all necessary components for remote
 
 This Terraform IaC automates creating a Resource Group, Virtual Network, Subnet, NSG, Public IP Address, and Windows 10 VM with NIC to allow remote RDP access.
 
-![Windows 10 Image](https://github.com/bgravesiac/Azure-Simple-LinuxVM-SSH/blob/main/images/linux_simple.jpg)
+![Windows 10 Image](https://github.com/bgravesiac/Simple-Azure-WindowsVM/blob/main/images/windows10.jpg)
 
 #### Resources Provisioned
 
